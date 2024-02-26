@@ -2,14 +2,14 @@ h1
 {
     font-size: 50px;
     text-align: center;
-    color: #ffc300;
+    color: #403f3d;
 }
 
 h3
 {
     font-size: 40px;
     text-align: right;
-    color: #ffc300;
+    color: #908370;
 }
 
 ol
@@ -21,7 +21,7 @@ ol
 
 body
 {
-    background-color: #000814;
+    background-color: #241916;
 }
 
 button
@@ -29,9 +29,9 @@ button
     height: 100px;
     width: 400px;
     font-size: 30px;
-    color: #ffc300;
-    border: 5px solid #ffc300;
-    background-color: #fff8e0;
+    color: #504239;
+    border: 5px solid #503f38;
+    background-color: #908370;
 }
 
 button:hover

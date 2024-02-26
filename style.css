@@ -2,23 +2,119 @@ h1
 {
     font-size: 50px;
     text-align: center;
-    color: #ffc300;
+    color: #403f3d;
 }
 
-button
+.button1
 {
     margin: 25px;
-    height: 350px;
-    width: 350px;
-    font-size: 75px;
-    color: #ffc300;
-    border: 5px solid #ffc300;
-    background-color: #fff8e0;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Image/Button1Off.png");
 }
 
-button:hover
+.button1:hover
 {
-    background-color: #000814;
+    background-image: url("Image/Button1On.png");
+}
+
+.button2
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Image/Button2Off.png");
+}
+
+.button2:hover
+{
+    background-image: url("Image/Button2On.png");
+}
+
+.button3
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Image/Button3Off.png");
+}
+
+.button3:hover
+{
+    background-image: url("Image/Button3On.png");
+}
+
+.button4
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Image/Button4Off.png");
+}
+
+.button4:hover
+{
+    background-image: url("Image/Button4On.png");
+}
+
+.button5
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Image/Button5Off.png");
+}
+
+.button5:hover
+{
+    background-image: url("Image/Button5On.png");
+}
+
+.button6
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Image/Button6Off.png");
+}
+
+.button6:hover
+{
+    background-image: url("Image/Button6On.png");
+}
+
+.button7
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Image/Button7Off.png");
+}
+
+.button7:hover
+{
+    background-image: url("Image/Button7On.png");
+}
+
+.button8
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Image/Button8Off.png");
+}
+
+.button8:hover
+{
+    background-image: url("Image/Button8On.png");
 }
 
 div
@@ -28,5 +124,5 @@ div
 
 body
 {
-    background-color: #000814;
+    background-color: #241916;
 }
