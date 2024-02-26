@@ -1,0 +1,128 @@
+h1
+{
+    font-size: 50px;
+    text-align: center;
+    color: #403f3d;
+}
+
+.button1
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Buttons_Images/Button1Off.png");
+}
+
+.button1:hover
+{
+    background-image: url("Buttons_Images/Button1On.png");
+}
+
+.button2
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Buttons_Images/Button2Off.png");
+}
+
+.button2:hover
+{
+    background-image: url("Buttons_Images/Button2On.png");
+}
+
+.button3
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Buttons_Images/Button3Off.png");
+}
+
+.button3:hover
+{
+    background-image: url("Buttons_Images/Button3On.png");
+}
+
+.button4
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Buttons_Images/Button4Off.png");
+}
+
+.button4:hover
+{
+    background-image: url("Buttons_Images/Button4On.png");
+}
+
+.button5
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Buttons_Images/Button5Off.png");
+}
+
+.button5:hover
+{
+    background-image: url("Buttons_Images/Button5On.png");
+}
+
+.button6
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Buttons_Images/Button6Off.png");
+}
+
+.button6:hover
+{
+    background-image: url("Buttons_Images/Button6On.png");
+}
+
+.button7
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Buttons_Images/Button7Off.png");
+}
+
+.button7:hover
+{
+    background-image: url("Buttons_Images/Button7On.png");
+}
+
+.button8
+{
+    margin: 25px;
+    height: 355px;
+    width: 355px;
+    background-color: #241916;
+    background-image: url("Buttons_Images/Button8Off.png");
+}
+
+.button8:hover
+{
+    background-image: url("Buttons_Images/Button8On.png");
+}
+
+div
+{
+    text-align: center;
+}
+
+body
+{
+    background-color: #241916;
+}

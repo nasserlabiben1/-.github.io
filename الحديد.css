@@ -1,0 +1,45 @@
+h1
+{
+    font-size: 50px;
+    text-align: center;
+    color: #403f3d;
+}
+
+h3
+{
+    font-size: 40px;
+    text-align: right;
+    color: #908370;
+}
+
+ol
+{
+    font-size: 25px;
+    text-align: right;
+    color: #fff8e0;
+}
+
+body
+{
+    background-color: #241916;
+}
+
+button
+{
+    height: 100px;
+    width: 400px;
+    font-size: 30px;
+    color: #504239;
+    border: 5px solid #503f38;
+    background-color: #908370;
+}
+
+button:hover
+{
+    background-color: #000814;
+}
+
+div
+{
+    text-align: center;
+}
